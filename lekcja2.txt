@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bla bla bla
 bla bla bla 2
+=======
+bla bla bladsfghfd
+>>>>>>> 11a786a3858c4a7ef39b8c57506ba4e7843082bc
